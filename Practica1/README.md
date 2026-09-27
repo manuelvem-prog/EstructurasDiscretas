@@ -1,4 +1,3 @@
-Descripción
 
 ## Objetvio de la practica 1 
 
