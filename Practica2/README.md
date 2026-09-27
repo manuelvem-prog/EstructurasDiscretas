@@ -5,7 +5,7 @@ Familiarizarse con el uso de GHCi e implementar los concimientos obtenido en la 
 
 ##Captura de pantalla
 
-![Practica2](./CapGH)
+![Practica2](./Capturas de pantalla/CapGH)
 
 ##Tiempo requerido 
 
