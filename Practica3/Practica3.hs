@@ -49,3 +49,5 @@ Uso: recibe un enteron y devuelve una lista de los coprimos de n
 -}
 coprimos :: Int -> [Int]
 coprimos n = [x | x <- [1..n], gcd n x == 1]
+
+
