@@ -25,3 +25,4 @@ Hudak, P., Fasel, J. H., & Peterson, J. E. (s.f.). A gentle introduction to Hask
 
 DataCamp. (2026). int Palabra clave en Java: Uso y ejemplos. https://www.datacamp.com/es/doc/java/int
 
+<img width="723" height="776" alt="image" src="https://github.com/user-attachments/assets/d25702a4-16cc-4279-9e54-41e31e3d2174" />
